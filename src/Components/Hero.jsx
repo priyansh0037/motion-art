@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="grid-cols-1 w-full px-5 lg:p-0 lg:w-5/6 mx-auto h-full bg-red- relative grid lg:grid-cols-5 lg:mt-24 lg:pointer-events-none  ">
+    <div className="grid-cols-1 w-full px-5 lg:p-0 lg:w-5/6 mx-auto h-full bg-red- relative grid lg:grid-cols-5 lg:mt-24 pointer-events-none  ">
 
       <div className=" col-span-1 lg:col-span-1 space-y-2  mt-9  text-center lg:text-left   ">
         <div className="lg:space-y-2 space-y-0 ">

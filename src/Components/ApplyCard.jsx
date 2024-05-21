@@ -4,7 +4,7 @@ import card1 from "../assets/motionarteffect-img11.png"
 
 const ApplyCard = ({card}) => {
   return (
-    <div className='w-full  h-full  bg-suportedBrowserGreadient p-16 rounded-[20px] border-[1.6px]  border-custom-border pointer-events-none '>
+    <div className='w-full  h-full  bg-suportedBrowserGreadient p-16 rounded-[20px] border-[1.6px]  border-custom-border lg:pointer-events-none '>
 
 <div className='flex flex-col gap-7 justify-center'>
 

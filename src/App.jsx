@@ -11,9 +11,9 @@ import Footer from './Components/Footer';
 
 const App = () => {
   return (
-    <div className='w-full h-full relative z-10'>
+    <div className='w-full h-full relative z-50'>
       
-      <FluidSimulation style={{zIndex: -1}} /> 
+      <FluidSimulation  /> 
       <Navbar />
       <Hero/>  
       <Rating/>

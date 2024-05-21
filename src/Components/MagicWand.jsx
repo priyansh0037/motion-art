@@ -3,7 +3,7 @@ import wand from "../assets/motionarteffect-img5.png"
 import { IoIosArrowRoundForward } from "react-icons/io"
 const MagicWand = () => {
   return (
-    <div className=' pb-16 lg:pt-20 lg:pb-20 px-5 lg:px-0 lg:w-5/6 mx-auto  relative pointer-events-none  lg:flex     '>
+    <div className=' pb-16 lg:pt-20 lg:pb-20 px-5 lg:px-0 lg:w-5/6 mx-auto  relative lg:pointer-events-none  lg:flex     '>
  <div className='flex flex-col flex-[3] gap-10 '>
  <h2 className='lg:text-6xl lg:leading-[5rem] text-4xl  leading-[3.5rem]   font-semibold lg:text-left text-center text-titleColor'> 
     Turn Your Cursor Into A Colorful Magic Wand & Charm Your Visitors

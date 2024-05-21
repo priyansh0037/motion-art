@@ -8,7 +8,7 @@ import AllRoundCards from './AllRoundCards'
 
 const AllRound = () => {
   return (
-    <div className=' pt-16 pb-8 lg:pt-24 px-5 lg:w-5/6 mx-auto relative pointer-events-none h-full'>      
+    <div className=' pt-16 pb-8 lg:pt-24 px-5 lg:w-5/6 mx-auto relative lg:pointer-events-none h-full'>      
 
     <div className='lg:w-[50%] w-full mx-auto flex flex-col gap-7'>
         <p className='text-4xl leading-[3.5rem] lg:text-6xl font-semibold lg:leading-[4rem] text-center'>

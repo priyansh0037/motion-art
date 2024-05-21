@@ -6,7 +6,7 @@ const SupportedBorwsers = () => {
     <div className="px-5 lg:px-0 w-full h-full ">
 
 
-    <div className="relative pointer-events-none h-full bg-suportedBrowserGreadient mx-auto lg:w-5/6 p-14 lg:p-20
+    <div className="relative lg:pointer-events-none h-full bg-suportedBrowserGreadient mx-auto lg:w-5/6 p-14 lg:p-20
     rounded-[20px] border-[1.6px]  border-custom-border ">
       <div className="lg:w-[53%] w-[100%] h-full   lg:mx-auto">
 

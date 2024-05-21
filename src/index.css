@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  
+  
+  body {
+   
+    width: 100dvw;
+    overflow-x: hidden;
+    height: 100%;
+    color: white;
+    background-color: #0E0F1A;
+    
+  }
